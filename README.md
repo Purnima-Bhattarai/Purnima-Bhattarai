@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Smart-Banking](https://github.com/Purnima-Bhattarai/Smart-Banking)
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+- 🌱 I’m currently learning **Data Science and AI**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
